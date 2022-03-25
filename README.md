@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhavik Agarwal.
-- 👀 I’m interested in Competitive programming and Android development.
-- 🌱 I’m currently learning Android development in Java and CPP.
+- 👀 I’m interested in Competitive programming and Web development.
+- 🌱 I’m currently learning Web development and CPP.
 - 🥅  Author of  [Iconic Python](https://iconicpython.blogspot.com/) and [CodeYT](https://codeyt.com/).
 
 ### Languages and Tools:
