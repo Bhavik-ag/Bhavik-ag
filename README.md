@@ -18,8 +18,6 @@
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavik-ag&show_icons=true&locale=en" alt="bhavik-ag" /></p>
-
 <!-- [website]: https://codeyt.com/
 [twitter]: https://twitter.com/BhavikAgarwal13
 [linkedin]: https://www.linkedin.com/in/bhavikagarwal2001/
