@@ -1,21 +1,44 @@
-- 👋 Hi, I’m Bhavik Agarwal.
-- 👀 I’m interested in Competitive programming and Web development.
-- 🌱 I’m currently learning Web development and CPP.
-- 🥅  Author of  [Iconic Python](https://iconicpython.blogspot.com/) and [CodeYT](https://codeyt.com/).
+## 👨🏻‍💻 &nbsp;About Me
 
-### Languages and Tools:
+- 👋 &nbsp;Hi, I’m Bhavik Agarwal.
+- 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Indian Institute of Information Technology, Jabalpur.
+- 👀 &nbsp;I’m enjoy doing Competitive Programming and Web development.
+- 🌱 &nbsp;I’m currently exploring and learning new techologies.
+- 🥅 &nbsp;Author of  [Iconic Python](https://iconicpython.blogspot.com/) and [CodeYT](https://codeyt.com/).
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Github Usage ~ Status
 
-### Connect with me:
+![Bhavik's github stats](https://github-readme-stats.vercel.app/api?username=Bhavik-ag&theme=dark&show_icons=true)
 
-<p align="left">
-<a href="https://twitter.com/bhavikagarwal13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavikagarwal13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhavikagarwal2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavikagarwal2001" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhavik_20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhavik_20" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bhavik_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bhavik_2001" height="30" width="40" /></a>
+### 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=react)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCB2C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+<br>
+
+### Competitive Programming Profiles
+
+<a href="https://www.codechef.com/users/bhavik_20"><img src="https://img.shields.io/badge/-Codechef-007d8b?style=for-the-badge&logo=Codechef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/bhavik_2001"><img src="https://img.shields.io/badge/-Codeforces-007d8b?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 </p>
 
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="mailto:21bcs056@iiitdmj.ac.in"><img src="https://img.shields.io/badge/-Mail-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/BhavikAgarwal13"><img src="https://img.shields.io/badge/-Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bhavikagarwal2001/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <br/>
 
 <!-- [website]: https://codeyt.com/
