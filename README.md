@@ -2,7 +2,7 @@
 
 - 👋 &nbsp;Hi, I’m Bhavik Agarwal.
 - 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Indian Institute of Information Technology, Jabalpur.
-- 👀 &nbsp;I’m enjoy doing Competitive Programming and Web development.
+- 👀 &nbsp;I enjoy doing Competitive Programming and Web development.
 - 🌱 &nbsp;I’m currently exploring and learning new techologies.
 - 🥅 &nbsp;Author of  [Iconic Python](https://iconicpython.blogspot.com/) and [CodeYT](https://codeyt.com/).
 
