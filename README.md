@@ -8,7 +8,7 @@
 
 ### Github Usage ~ Status
 
-![Bhavik's github stats](https://github-readme-stats.vercel.app/api?username=Bhavik-ag&theme=dark&show_icons=true)
+<!--![Bhavik's github stats](https://github-readme-stats.vercel.app/api?username=Bhavik-ag&theme=dark&show_icons=true) -->
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
