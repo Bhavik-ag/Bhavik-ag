@@ -3,10 +3,12 @@
 - 👋 &nbsp;Hi, I’m Bhavik Agarwal.
 - 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Indian Institute of Information Technology, Jabalpur.
 - 👀 &nbsp;I enjoy doing Competitive Programming and Web development.
-- 🌱 &nbsp;I’m currently exploring and learning new techologies.
+- 🌱 &nbsp;I’m looking to collaborate in open source projects.
 - 🥅 &nbsp;Author of  [Iconic Python](https://iconicpython.blogspot.com/) and [CodeYT](https://codeyt.com/).
 
 ### Github Usage ~ Status
+
+[![Bhavik's github stats](https://github-readme-stats.vercel.app/api?username=Bhavik-ag&theme=dark&show_icons=true)](https://github.com/Bhavik-ag/)
 
 <!--![Bhavik's github stats](https://github-readme-stats.vercel.app/api?username=Bhavik-ag&theme=dark&show_icons=true) -->
 
