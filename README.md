@@ -6,10 +6,6 @@
 - 🌱 &nbsp;I’m looking to collaborate in open source projects.
 - 🥅 &nbsp;Author of  [Iconic Python](https://iconicpython.blogspot.com/) and [CodeYT](https://codeyt.com/).
 
-### Github Usage ~ Status
-
-[![Bhavik's github stats](https://github-readme-stats.vercel.app/api?username=Bhavik-ag&theme=dark&show_icons=true)](https://github.com/Bhavik-ag/)
-
 <!--![Bhavik's github stats](https://github-readme-stats.vercel.app/api?username=Bhavik-ag&theme=dark&show_icons=true) -->
 
 ### 🛠 &nbsp;Tech Stack
