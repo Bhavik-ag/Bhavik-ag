@@ -1,50 +1,31 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 👋 &nbsp;Hi, I’m Bhavik Agarwal.
-- 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Indian Institute of Information Technology, Jabalpur.
-- 👀 &nbsp;I enjoy doing Competitive Programming and Web development.
-- 🌱 &nbsp;I’m looking to collaborate in open source projects.
-- 🥅 &nbsp;Author of  [Iconic Python](https://iconicpython.blogspot.com/) and [CodeYT](https://codeyt.com/).
+Hi there! 👋 I'm Bhavik Agarwal — a full stack developer, builder, and founder of Zexa Technologies. I help startups go from idea to launch with fast, reliable, and scalable web solutions. I have worked with MNCs, build production-grade applications — from SaaS products and AI-powered tools to admin panels, analytics dashboards, and high-conversion websites for startups and fast-moving businesses.
 
-<!--![Bhavik's github stats](https://github-readme-stats.vercel.app/api?username=Bhavik-ag&theme=dark&show_icons=true) -->
+Website: https://zexa.app
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=react)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCB2C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-<br>
+Twitter/X : [BhavikAgarwal13](https://twitter.com/BhavikAgarwal13)
 
-### Competitive Programming Profiles
+LinkedIn : [bhavikagarwal2001](https://www.linkedin.com/in/bhavikagarwal2001/)
 
-<a href="https://www.codechef.com/users/bhavik_20"><img src="https://img.shields.io/badge/-Codechef-007d8b?style=for-the-badge&logo=Codechef&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/bhavik_2001"><img src="https://img.shields.io/badge/-Codeforces-007d8b?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
-</p>
+My tech expertise includes:
 
+- Frontend & UI: Next.js, React.js, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion
+- Backend & APIs: Django, Django Rest Framework, Node.js, Express.js, Prisma ORM
+- Mobile App Development: Flutter, React Native
+- Desktop App Development: Flutter, Wails (Go), Electron, Nextron
+- Databases & Auth: PostgreSQL, Supabase, MongoDB, Auth.js, Stripe, Resend, PayloadCMS 3.0
+- AI & LLM Integrations: AI agents with custom tools using phidata, LangChain, LangGraph, Vercel AI SDK, OpenAI, Retrieval-Augmented Generation (RAG), speech-to-text
+- DevOps & Hosting: Vercel, Render, Neon, AWS EC2/S3, Docker1
 
-### 🤝🏻 &nbsp;Connect with Me
+Why work with me?
 
-<p align="left">
-<a href="mailto:21bcs056@iiitdmj.ac.in"><img src="https://img.shields.io/badge/-Mail-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/BhavikAgarwal13"><img src="https://img.shields.io/badge/-Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/bhavikagarwal2001/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<br/>
+- Full-cycle development – from brainstorming to deployment
+- Rapid prototyping using reusable components and proven boilerplates
+- Clean, scalable codebase and efficient database architecture
+- Clear communication and reliable delivery – I treat your product like my own
 
-<!-- [website]: https://codeyt.com/
-[twitter]: https://twitter.com/BhavikAgarwal13
-[linkedin]: https://www.linkedin.com/in/bhavikagarwal2001/
-[codechef]: https://www.codechef.com/users/bhavik_20
-[codeforces]: https://codeforces.com/profile/bhavik_2001
-[hackerearth]: https://www.hackerearth.com/@bhavik138 -->
+If you're building something ambitious or need a developer who can move fast and deliver real results, I’d love to connect and help you bring your idea to life.
 
 <!---
 Bhavik-ag/Bhavik-ag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
